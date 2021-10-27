@@ -1,4 +1,0 @@
-# Curriculo
-Meu currículo. 
-
-
