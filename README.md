@@ -1,2 +1,2 @@
-# Curriculum_Vitae
+# Currículo
 Meu currículo. 
